@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/proyectos/Pruebas/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/proyectos/Pruebas/libs/jackcess-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/proyectos/Pruebas/libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/proyectos/Set de librerías/mdbtools-java.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
